@@ -1,3 +1,5 @@
+> ⚠ This theme is no longer supported. While it works on 0.0.4, many features are unsupported and will only be maintained by outside contributions. I do not have any vision for this project currently.
+
 # True Guilded
 ![image](https://user-images.githubusercontent.com/68198648/143483792-dc2619fe-4c52-484e-b58a-dcbd7bd7a690.png)
 
